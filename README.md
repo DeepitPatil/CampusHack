@@ -26,14 +26,14 @@ On starting the code, a form is shown which askes the user their moodle username
 ## Notifications
 
 Whenever a new file is added to the user's moodle account, the user receives a notification on their screen.
-<br/>
+<br/><br/>
 <img src="screenshots/notification.png" width="483" height="182">
 <br/>
 <a name="mail"/>
 
 ## Mail
 At the end of the day(between 8 and 9 pm), the user receives a mail containing all the files added on that day along with the links.
-<br/>
+<br/><br/>
 <img src="screenshots/mail2.png" width="575" height="105"> <img src="screenshots/mail.png" width="357" height="224"> 
 <br/>
 <a name="future-references"/>
