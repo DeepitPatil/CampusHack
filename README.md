@@ -19,7 +19,7 @@ We noticed that moodle does not have a notification system to notify the user wh
 On starting the code, a form is shown which askes the user their moodle username, password and email id.
 
 <br/>
-<img src="screenshots/ui.png" width="424" height="286"> 
+<img src="screenshots/ui.png" width="636" height="429"> 
 <br/>
 <a name="notifications"/>
 <br/><br/>
