@@ -9,7 +9,7 @@ We noticed that moodle does not have a notification system to notify the user wh
 ## Table of Contents  
  - [User Login](#user-login)  
  - [Notifications](#notifications)
- - [Mail](#mail)  
+ - [Daily Digest](#daily-digest)  
  - [Future References](#future-features)
 
 <br/>
@@ -32,8 +32,8 @@ Whenever a new file is added to the user's moodle account, the user receives a n
 <br/>
 <a name="mail"/>
 <br/><br/><br/>
-## Mail
-At the end of the day(between 8 and 9 pm), the user receives a mail containing all the files added on that day along with the links.
+## Daily Digest
+At the end of the day(between 8 and 9 pm), the user receives a mail containing all the files added on that day along with the links in a digested format.
 <br/><br/>
 <img src="screenshots/mail2.png" width="575" height="105"> <img src="screenshots/mail.png" width="357" height="224"> 
 <br/>
@@ -45,3 +45,4 @@ At the end of the day(between 8 and 9 pm), the user receives a mail containing a
  - Getting access to moodle API and making a moodle plugin.
  - Making a mobile version.
  - Include  chats from contacts.
+ - Making the application more memory and time efficient
