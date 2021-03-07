@@ -10,7 +10,7 @@ We noticed that moodle does not have a notification system to notify the user wh
  - [User Login](#user-login)  
  - [Notifications](#notifications)
  - [Mail](#mail)  
- - [Future References](#future-references)
+ - [Future References](#future-features)
 
 <br/>
 <a name="user-login"/>
@@ -39,7 +39,7 @@ At the end of the day(between 8 and 9 pm), the user receives a mail containing a
 <a name="future-references"/>
 
 
-## Future References
+## Future Features
 
  - Getting access to moodle API and making a moodle plugin.
  - Making a mobile version.
