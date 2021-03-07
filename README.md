@@ -22,7 +22,8 @@ On starting the code, a form is shown which askes the user their moodle username
 <img src="screenshots/ui.png" width="424" height="286"> 
 <br/>
 <a name="notifications"/>
-<br/><br/><br/>
+<br/><br/>
+
 ## Notifications
 
 Whenever a new file is added to the user's moodle account, the user receives a notification on their screen.
