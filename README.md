@@ -35,7 +35,8 @@ Whenever a new file is added to the user's moodle account, the user receives a n
 ## Daily Digest
 At the end of the day(between 8 and 9 pm), the user receives a mail containing all the files added on that day along with the links in a digested format.
 <br/><br/>
-<img src="screenshots/mail2.png" width="575" height="105"> <img src="screenshots/mail.png" width="357" height="224"> 
+<img src="screenshots/mail2.png" > <br/>
+<img src="screenshots/mail.png" width="536" height="336"> 
 <br/>
 <a name="future-references"/>
 
