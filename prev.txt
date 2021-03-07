@@ -1,4 +1,4 @@
-2021-03-07 15:44:12.074911
+2021-03-07 17:02:10.702523
 root{$£þ}None{$£þ}None
 My Courses{$£þ}https://moodle.iitd.ac.in/my/{$£þ}root
 2001-CML101T25 INTRODUCTION TO CHEMISTRY{$£þ}https://moodle.iitd.ac.in/course/view.php?id=10646{$£þ}My Courses
@@ -130,6 +130,7 @@ Announcements{$£þ}https://moodle.iitd.ac.in/mod/forum/view.php?id=56154{$£þ}
 Impartus{$£þ}https://moodle.iitd.ac.in/mod/lti/view.php?id=56435{$£þ}2002-PYL101 ELECTROMAGNETIC WAVES & QUA.MEC.
 PYL101: Introduction Class{$£þ}https://moodle.iitd.ac.in/mod/resource/view.php?id=59631{$£þ}2002-PYL101 ELECTROMAGNETIC WAVES & QUA.MEC.
 Lecture-1-EM{$£þ}https://moodle.iitd.ac.in/mod/resource/view.php?id=59590{$£þ}2002-PYL101 ELECTROMAGNETIC WAVES & QUA.MEC.
+Tutorial-Sheet-EM-1{$£þ}https://moodle.iitd.ac.in/mod/resource/view.php?id=59788{$£þ}2002-PYL101 ELECTROMAGNETIC WAVES & QUA.MEC.
 Lecture-2-EM{$£þ}https://moodle.iitd.ac.in/mod/resource/view.php?id=59907{$£þ}2002-PYL101 ELECTROMAGNETIC WAVES & QUA.MEC.
 2002-ELL101 INTRO. TO ELECTRICAL ENGG.{$£þ}https://moodle.iitd.ac.in/course/view.php?id=11053{$£þ}My Courses
 Announcements{$£þ}https://moodle.iitd.ac.in/mod/forum/view.php?id=55849{$£þ}2002-ELL101 INTRO. TO ELECTRICAL ENGG.

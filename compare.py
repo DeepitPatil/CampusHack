@@ -28,8 +28,4 @@ def compare(file1,file2):
             added.append(i)
     display(added)
 
-curr = open("curr.txt","r")
-prev = open("prev.txt","r")
-compare(curr,prev)
-
 

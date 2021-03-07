@@ -10,9 +10,7 @@ from Node import Node
 import os
 import datetime
 
-def main():
-    username = input("username: ")
-    password = getpass.getpass("password : ", stream=None)
+def main(username, password):
 
     chrome_options = Options()
     chrome_options.add_argument('--headless')
