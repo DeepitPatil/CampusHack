@@ -18,6 +18,12 @@ class Node():
 
     def setLink(self, link):
         self._link = link
-        
 
-    
+    def save(self,file):
+        #print(self.getName())
+        if self.parent:
+            file.write(self.getName()+"{$£þ}"+self.getLink()+"{$£þ}"+self.parent.getName()+"\n")
+        else:
+            file.write(self.getName()+"{$£þ}None{$£þ}None\n")
+        for child in self.children:
+            child.save(file)
