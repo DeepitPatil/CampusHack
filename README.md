@@ -22,7 +22,7 @@ On starting the code, a form is shown which askes the user their moodle username
 <img src="screenshots/ui.png" width="424" height="286"> 
 <br/>
 <a name="notifications"/>
-
+<br/><br/><br/>
 ## Notifications
 
 Whenever a new file is added to the user's moodle account, the user receives a notification on their screen.
@@ -30,7 +30,7 @@ Whenever a new file is added to the user's moodle account, the user receives a n
 <img src="screenshots/notification.png" width="483" height="182">
 <br/>
 <a name="mail"/>
-
+<br/><br/><br/>
 ## Mail
 At the end of the day(between 8 and 9 pm), the user receives a mail containing all the files added on that day along with the links.
 <br/><br/>
@@ -38,7 +38,7 @@ At the end of the day(between 8 and 9 pm), the user receives a mail containing a
 <br/>
 <a name="future-references"/>
 
-
+<br/><br/>
 ## Future Features
 
  - Getting access to moodle API and making a moodle plugin.
